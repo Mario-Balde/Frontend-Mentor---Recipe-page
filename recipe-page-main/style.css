@@ -19,8 +19,8 @@ P {
 /* Styles the entire html body with Young Serif Google font*/
 body {
     font-family: 'Young Serif', serif;
-    /* margin-block: hsl(30, 54%, 90%); */
-    background-color: hsl(30, 54%, 90%);
+    
+    background-color: hsl(30, 54%, 90%); /* margin-block: hsl(30, 54%, 90%); */
     padding-left: 25%;
     padding-right: 25%;
 
@@ -30,11 +30,6 @@ h3 {
     color: hsl(332, 51%, 32%);
 
 }
-
-/* .ingre-li-color {
-    color: hsl(332, 51%, 32%);
-
-} */
 
 li::marker {
     color: hsl(332, 51%, 32%);
