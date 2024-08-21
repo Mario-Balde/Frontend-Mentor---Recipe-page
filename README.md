@@ -36,7 +36,7 @@ https://www.w3schools.com/, https://developer.mozilla.org/en-US/
 
 
 ### Screenshot
-This is my final project screenshot. It shows how my end project looks, and it can be compared to the solution provided by the Frontend Mentor community. I'm open to any feedback!
+This is my final project screenshot. It shows how my end project looks, and it can be compared to the solution provided by the "Frontend Mentor" community. I'm open to any feedback!
 ![Alt text](/screenshot.png)
 
 ### Links
