@@ -94,6 +94,6 @@ tr:not(:last-child) {
     text-align: right;
     margin-right: -60%;
     position: relative;
-    bottom: 0;
+    bottom: 50%;
     font-size: 12px;
 }
