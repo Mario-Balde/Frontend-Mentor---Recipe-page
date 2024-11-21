@@ -41,7 +41,8 @@ This is my final project screenshot. It shows how my end project looks, and it c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Mario-Balde/Frontend-Mentor---Recipe-page.git)
+- Solution URL: [@MarioBalde](https://github.com/Mario-Balde/Frontend-Mentor---Recipe-page.git)
+- Live site URL: [@MarioBalde](https://frontend-mentor-recipe-page-gamma.vercel.app/)
 
 
 
