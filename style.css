@@ -22,6 +22,7 @@ body {
     
     background-color: hsl(30, 54%, 90%); /* margin-block: hsl(30, 54%, 90%); */
     padding-left: 25%;
+    magin-top
     padding-right: 25%;
 
 }
@@ -94,5 +95,6 @@ tr:not(:last-child) {
 .attribution {
     text-align: right;
     margin-right: -60%;
+    position: relative;
     font-size: 12px;
 }
