@@ -58,7 +58,8 @@ table {
     /* Make the table take up the full width */
     border-collapse: collapse;
     /* Ensure no space between table cells */
-    margin-left: 5%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 td {
@@ -88,4 +89,10 @@ td:first-child {
 tr:not(:last-child) {
     border-bottom: 1px solid #000;
     /* Add a solid underline between rows, except the last one */
+}
+
+.attribution {
+    text-align: right;
+    margin-right: -50%;
+    font-size: 12px;
 }
