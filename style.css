@@ -93,6 +93,7 @@ tr:not(:last-child) {
 .attribution {
     text-align: right;
     margin-right: -60%;
-    bottom: 0;
+    position: relative;
+    bottom: 2em;
     font-size: 12px;
 }
