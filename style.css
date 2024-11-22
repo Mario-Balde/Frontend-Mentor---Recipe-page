@@ -119,16 +119,10 @@ tr:not(:last-child) {
         text-align: center;
         position: relative;
         bottom: 40%;
-        font-size: 12px;
+        font-size: 16px;
 
     }
 
 }
-/* .attribution {
-    text-align: right;
-    margin-right: -60%;
-    position: relative;
-    bottom: 10%;
-    font-size: 12px;
-} */
+
 
