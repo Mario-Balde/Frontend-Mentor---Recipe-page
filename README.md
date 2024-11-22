@@ -23,16 +23,16 @@ VSCode Visual Studio.
 HTML.
 CSS.
 
-What I learned?
+What did I learn?
 HTML and CSS
 
 Useful resources:
 https://www.w3schools.com/, https://developer.mozilla.org/en-US/
 
 ## My process:
-1. Create HTML file named "index.html" to the markup language (website structure).
-2. Create CSS file called "style.css" to style the website.
-3. Create image file "screenshot.png" to show the screenshot of the page for the review. 
+1. Create an HTML file named "index.html" to the markup language (website structure).
+2. Create a CSS file called "style.css" to style the website.
+3. Create an image file "screenshot.png" to show the screenshot of the page for the review. 
 
 
 ### Screenshot
@@ -57,7 +57,7 @@ I'm excited to dive deeper into CSS and expand my skills by learning Flexbox and
 ### Useful resources
 - [W3Schools](https://www.w3schools.com/) - W3Schools was essential in building this project, offering clear tutorials on HTML and CSS that helped me understand content structuring and styling. Their practical examples made it easy to learn and apply key web development techniques effectively.
 
-- [MDN - Mozilla Developer](https://www.example.com) - MDN Web Docs was crucial in building this project, providing in-depth, well-structured resources on HTML and CSS. The detailed explanations and examples on MDN helped me understand the nuances of web development and apply best practices effectively. This allowed me to create a well-crafted and responsive webpage with confidence..
+- [MDN - Mozilla Developer](https://www.example.com) - MDN Web Docs was crucial in building this project, providing in-depth, well-structured resources on HTML and CSS. The detailed explanations and examples on MDN helped me understand the nuances of web development and apply best practices effectively. This allowed me to create a well-crafted and responsive webpage with confidence.
 
 ## Author
 - Frontend Mentor - [@Mario-Balde](https://www.frontendmentor.io/profile/Mario-Balde)
