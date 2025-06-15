@@ -35,10 +35,6 @@ https://www.w3schools.com/, https://developer.mozilla.org/en-US/
 3. Create an image file "screenshot.png" to show the screenshot of the page for the review. 
 
 
-### Screenshot
-This is my final project screenshot. It shows how my end project looks, and it can be compared to the solution provided by the "Frontend Mentor" community. I'm open to any feedback!
-![Alt text](/screenshot.png)
-
 ### Links
 
 - Challenge URL: https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm
